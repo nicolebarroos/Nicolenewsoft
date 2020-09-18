@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **In these tools, after all we can contribute a lot to this network**
 
-- 👨‍💻 All of my projects are available [on the tab: repositories](on the tab: repositories)
+- 👨‍💻 All of my projects are available in the repositories tab
 
 - 💬 Ask me about **Python**
 
