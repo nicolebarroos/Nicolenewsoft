@@ -5,7 +5,7 @@
 
 - 🌱 Aprendendo sobre **desenvolvimento mobile com Android Nativo e recebendo mentoria pelo Henrique Bastos, através do Welcome to the Django, que além de me aprimorar no desenvolvimento web com Django, trás cursos como Python Power, Refatoração na prática, Raio-x das expressões regulares, entre outros**
 
-- 👯 I’m looking to collaborate on **projetos em Python**
+- 👯 Gostaria de colaborar com **projetos em Python**
 
 - 🤝 Estou procurando ajuda com **ferramentas frontend**
 
