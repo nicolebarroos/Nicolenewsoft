@@ -3,7 +3,7 @@
 
 - 🔭Atualmente estou me aprimorando em **Python e Django**
 
-- 🌱 Atualmente aprendendo sobre **desenvolvimento mobile com React Native **
+- 🌱 Atualmente aprendendo sobre **desenvolvimento mobile com React Native**
 
 - 👯 Gostaria de colaborar com **projetos em Python**
 
