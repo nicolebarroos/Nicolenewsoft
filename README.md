@@ -17,6 +17,10 @@
 
 
 <p align="center">
-<img align="center" href = "https://www.linkedin.com/in/nicole-barros-ba8a8b13b/" src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25">
 
+<a href="https://www.linkedin.com/in/nicole-barros-ba8a8b13b/">
+
+<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25">
+
+</a>
 </p>
