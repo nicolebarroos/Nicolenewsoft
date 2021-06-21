@@ -17,5 +17,5 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicole-barros-ba8a8b13b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nicole-barros-ba8a8b13b/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nicole-barros-ba8a8b13b/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw1QnABoAuh0O9WljSmOLPXi&ust=1624371276016000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCVlNn0qPECFQAAAAAdAAAAABAD" alt="https://www.linkedin.com/in/nicole-barros-ba8a8b13b/" height="30" width="30" /></a>
 </p>
