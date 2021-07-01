@@ -13,7 +13,7 @@
 
 - 📫 Poderá entrar em contato comigo pelo email, **barrosnicole094@gmail.com**
 
-- ⚡ Mais sobre mim? **Amo ler sobre ciência e desenvolvimento pessoal. Gosto de praticar esportes, como a corrida porque é incrível ver como nosso corpo consegue ultrapassar seus próprios limites e como a mente tem um grande papel nisso!**
+- ⚡ Mais sobre mim? **Amo ler sobre ciência e desenvolvimento pessoal. Gosto de praticar esportes como a corrida, afinal é incrível ver como nosso corpo consegue ultrapassar seus próprios limites e como a mente tem um grande papel nisso!**
 
 <h3 align="left">Vamos nos conectar no linkedin:</h3>
 <p align="left">
